@@ -24,8 +24,6 @@ I enjoy solving problems, exploring new technologies, and constantly improving s
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <!-- Summary Card (the big purple graph + contributions + join date) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=major-murali&theme=tokyonight" width="90%"/>
