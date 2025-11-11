@@ -41,10 +41,12 @@ Hey there! I'm Murali, passionate about building, automating, and scaling cloud-
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/naveen15github/](https://www.linkedin.com/in/naveen-g-41a041253?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmzhPKgJFRMGbFlY3caUvYQ%3D%3D">
+  <a href="https://www.linkedin.com/in/murali67/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
-  <a href="mailto:naveen6662005@gmail.com">
+</p>
+
+  <a href="mailto:thisismurali12@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge">
   </a>
 </p>
