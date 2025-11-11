@@ -25,28 +25,27 @@ I enjoy solving problems, exploring new technologies, and constantly improving s
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Summary Card (the big purple graph + contributions + join date) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=major-murali&theme=tokyonight" width="90%"/>
+  <!-- Profile Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=major-murali&theme=tokyonight&include_all_commits=true&count_private=true" width="90%"/>
 </p>
 
 <p align="center">
-  <!-- Small Stat Cards (stars, commits, PRs, issues) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=major-murali&theme=tokyonight" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=major-murali&theme=tokyonight" height="180"/>
+  <!-- Stats + Productive Time -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=major-murali&theme=tokyonight&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=major-murali&theme=tokyonight&utcOffset=5.5" height="180"/>
 </p>
 
 <p align="center">
-  <!-- Contribution Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=major-murali&theme=tokyonight"/>
+  <!-- Contribution Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=major-murali&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </p>
-
 
 ---
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=major-murali&theme=react-dark&radius=10&area=true&hide_border=true" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=major-murali&theme=react-dark&radius=10&area=true&hide_border=true&count_private=true" width="90%"/>
 </p>
 
 ---
@@ -69,9 +68,6 @@ I enjoy solving problems, exploring new technologies, and constantly improving s
   </a>
 </p>
 
----
-
-<!-- FOOTER NOTE -->
 <p align="center">
   🌟 Minimal, modern, and professional — thanks for visiting my GitHub profile!
 </p>
