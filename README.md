@@ -45,7 +45,6 @@ Hey there! I'm Murali, passionate about building, automating, and scaling cloud-
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
 </p>
-
   <a href="mailto:thisismurali12@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge">
   </a>
