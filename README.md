@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Murali K 👋</h1>
 <p align="center">
-  <b>Aspiring  DevOps & Cloud Engineer</b> <br/>
+  <b>DevOps & Cloud Engineer</b> <br/>
   <img src="https://skillicons.dev/icons?i=aws,python,linux,git,docker,kubernetes,jenkins" height="40"/>
 </p>
 
@@ -23,11 +23,12 @@ Hey there! I'm Murali, passionate about building, automating, and scaling cloud-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=major-muraligithub&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="140"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=major-muraligithub&theme=tokyonight" alt="GitHub Streak" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=major-murali&show_icons=true&theme=tokyonight" height="140"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=major-murali&theme=tokyonight" height="140"/>
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=major-muraligithub&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=major-murali&theme=tokyonight"/>
 </p>
+
 
 ---
 
