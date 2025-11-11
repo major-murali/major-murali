@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Murali K 👋</h1>
 <p align="center">
-  Cloud & DevOps Engineer <br>
+  DevOps & cloud Engineer <br>
 </p>
 
 ---
@@ -43,10 +43,10 @@ I enjoy solving problems, exploring new technologies, and continuously learning.
 ### 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/murali67/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:thisismurali12@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
