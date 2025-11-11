@@ -28,12 +28,24 @@ I enjoy solving problems, exploring new technologies, and constantly improving s
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=major-murali&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=major-murali&theme=tokyonight" height="150" />
-  <br/><br/>
+  <!-- Summary Card (the big purple graph + contributions + join date) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=major-murali&theme=tokyonight" width="90%"/>
 </p>
+
+<p align="center">
+  <!-- Small Stat Cards (stars, commits, PRs, issues) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=major-murali&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=major-murali&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <!-- Contribution Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=major-murali&theme=tokyonight"/>
+</p>
+
 
 ---
 
