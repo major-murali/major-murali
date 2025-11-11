@@ -27,10 +27,16 @@ I enjoy solving problems, exploring new technologies, and continuously learning.
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=major-murali&show_icons=true&theme=tokyonight" width="50%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=major-murali&theme=tokyonight" width="50%"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=major-murali&theme=tokyonight" width="100%"/>
+<br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=major-murali&theme=tokyonight" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Naveen15github&theme=major-murali&date_format=j%20M%5B%20Y%5D" height="180"/>
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=major-murali&theme=react-dark&hide_border=true" width="100%"/>
+</div>
+
 
 ---
 
