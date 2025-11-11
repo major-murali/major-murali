@@ -22,25 +22,6 @@ I enjoy solving problems, exploring new technologies, and constantly improving s
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- Profile Summary Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=major-murali&theme=tokyonight&include_all_commits=true&count_private=true" width="90%"/>
-</p>
-
-<p align="center">
-  <!-- Stats + Productive Time -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=major-murali&theme=tokyonight&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=major-murali&theme=tokyonight&utcOffset=5.5" height="180"/>
-</p>
-
-<p align="center">
-  <!-- Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=major-murali&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</p>
-
----
 
 ## 📈 Contribution Graph
 
