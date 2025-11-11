@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00A8FF&center=true&vCenter=true&width=450&lines=DevOps+%26+Cloud+Engineer;Automating+everything+I+can;Always+Learning+New+Things!" />
 </h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,python,linux,git,docker,kubernetes,jenkins&perline=7" height="45" />
-</p>
-
 ---
 
 ## 🚀 About Me
