@@ -2,6 +2,10 @@
 <p align="center">
   DevOps & cloud Engineer <br>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Aspiring%20Cloud%20%26%20DevOps%20Engineer-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ECE%20Student%20@%20NGP%20Tech-0052CC?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -12,15 +16,14 @@ I enjoy solving problems, exploring new technologies, and continuously learning.
 
 ---
 
-### 🛠️ Skills & Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI/CD-%23000000.svg?logo=githubactions&logoColor=white" />
+<p align="center">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img alt="DevOps" src="https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=azuredevops&logoColor=white"/>
 </p>
 
 ---
