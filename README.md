@@ -3,8 +3,7 @@
   DevOps & cloud Engineer <br>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Aspiring%20Cloud%20%26%20DevOps%20Engineer-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ECE%20Student%20@%20NGP%20Tech-0052CC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/%20Cloud%20%26%20DevOps%20Engineer-blueviolet?style=for-the-badge"/>
 </p>
 
 ---
