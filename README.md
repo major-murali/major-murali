@@ -22,15 +22,6 @@ I enjoy solving problems, exploring new technologies, and constantly improving s
 
 ---
 
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=major-murali&theme=react-dark&radius=10&area=true&hide_border=true&count_private=true" width="90%"/>
-</p>
-
----
-
 ## ⚡ Fun Fact 
 
 > "Obsessed with automation, powered by ☕ + curiosity.  
